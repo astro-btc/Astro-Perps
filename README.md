@@ -1,4 +1,4 @@
-Perps Detail
+请使用新版本：
 
-https://astro-btc.github.io/Astro-Perps/
+https://funding.astro-btc.xyz/?coin=SOL
 
